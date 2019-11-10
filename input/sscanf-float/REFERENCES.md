@@ -1,0 +1,3 @@
+- [C library function - sscanf() - Tutorialspoint](https://www.tutorialspoint.com/c_standard_library/c_function_sscanf.htm)
+- [scanf - C sscanf not working with float - Stack Overflow](https://stackoverflow.com/questions/40070692/c-sscanf-not-working-with-float)
+- [How to parse a value from an XML tag in C language? - Stack Overflow](https://stackoverflow.com/questions/1514851/how-to-parse-a-value-from-an-xml-tag-in-c-language)
